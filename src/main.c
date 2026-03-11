@@ -64,7 +64,7 @@
 
 /*
  * Tot welke lux-waarde moet de lamp actief mee dimmen?
- * Boven deze waarde gaat hij naar uit.
+ * Boven deze waarde gaat hij naar uit.ffftscdszd
  */
 #define LIGHT_ACTIVE_MAX_LUX 300u
 
